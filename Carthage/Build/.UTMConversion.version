@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.1.0",
+  "iOS" : [
+    {
+      "name" : "UTMConversion",
+      "hash" : "59de557981a0c90fa0609806d03109e2674724a447b0da13a7fc3051debdfbe1"
+    }
+  ]
+}

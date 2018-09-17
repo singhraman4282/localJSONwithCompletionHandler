@@ -1,0 +1,11 @@
+framework module UTMConversion {
+  umbrella header "UTMConversion.h"
+
+  export *
+  module * { export * }
+}
+
+module UTMConversion.Swift {
+    header "UTMConversion-Swift.h"
+    requires objc
+}

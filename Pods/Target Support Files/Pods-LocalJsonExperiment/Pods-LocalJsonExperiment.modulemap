@@ -1,0 +1,6 @@
+framework module Pods_LocalJsonExperiment {
+  umbrella header "Pods-LocalJsonExperiment-umbrella.h"
+
+  export *
+  module * { export * }
+}
